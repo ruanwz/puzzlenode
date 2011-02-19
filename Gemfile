@@ -6,3 +6,8 @@ gem 'pg'
 gem 'haml'
 
 gem 'omniauth'
+
+gem "jquery-rails"
+gem "haml-rails"
+gem "compass"
+gem 'barista', '~> 1.0'
